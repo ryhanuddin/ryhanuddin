@@ -22,6 +22,6 @@ SDN Security • IoT/CPS Security • Federated Learning • Cloud Infrastructur
 
 <p align="center">
   <a href="https://ryhanuddin.github.io/">Portfolio</a> |
-  <a href="https://scholar.google.com/">Google Scholar</a> |
+  <a href="https://scholar.google.com/citations?user=3mDq6sEAAAAJ&hl=en/">Google Scholar</a> |
   <a href="https://www.linkedin.com/in/ryhan-uddin/">LinkedIn</a>
 </p>
