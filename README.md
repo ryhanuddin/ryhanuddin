@@ -21,7 +21,13 @@ SDN Security • IoT/CPS Security • Federated Learning • Cloud Infrastructur
 <h2 align="center">Connect With Me</h2>
 
 <p align="center">
-  <a href="https://ryhanuddin.github.io/">Portfolio</a> |
-  <a href="https://scholar.google.com/citations?user=3mDq6sEAAAAJ&hl=en/">Google Scholar</a> |
-  <a href="https://www.linkedin.com/in/ryhan-uddin/">LinkedIn</a>
+  <a href="https://ryhanuddin.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-0E7490?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://scholar.google.com/">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ryhan-uddin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
