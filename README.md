@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=230&color=0:030712,35:0f172a,70:164e63,100:22d3ee&text=Ryhan%20Uddin&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=SDN%20%7C%20IoT%20Security%20%7C%20Cloud%20Infrastructure%20%7C%20AI&descAlignY=64&descSize=17&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:0E7490,100:22D3EE&height=180&section=header&text=Ryhan%20Uddin&fontSize=42&fontColor=FFFFFF&desc=Cybersecurity%20%7C%20Cloud%20Infrastructure%20%7C%20SDN%20%7C%20AI&descSize=18&descAlignY=55" />
 </p>
 
 <p align="center">
